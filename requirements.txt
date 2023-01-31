@@ -1,0 +1,5 @@
+python-dotenv
+feedparser
+python-dateutil
+requests 
+requests_oauthlib
